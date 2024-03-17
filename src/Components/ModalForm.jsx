@@ -24,7 +24,7 @@ export const ModalForm = ({
 	return (
 		<div
 			style={{
-				backgroundColor: '#07305D',
+				backgroundColor: '#0F1D45',
 				height: '130vh',
 				position: 'absolute',
 				width: 450,
